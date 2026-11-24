@@ -66,3 +66,16 @@ http://localhost:8000
 ├── script.js
 └── README.md
 ```
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Error Handling
+The calculator prevents invalid actions where possible, including division by zero and incomplete calculations. Invalid input is shown as an error or cleared for a new calculation.
+
+## License
+
+This project is available for personal and educational used.
