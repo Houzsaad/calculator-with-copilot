@@ -43,8 +43,26 @@ http://localhost:8000
 ```
 
 ## Usage
-1 Enter or select a number.
-2 Choose an operation.
-3 Enter another number.
-4 Select = to display the result.
-5 Use Clear or C to reset the calculator.
+- Enter or select a number.
+- Choose an operation.
+- Enter another number.
+- Select = to display the result.
+- Use Clear or C to reset the calculator.
+
+## Example
+
+```bash 
+12 + 8 = 20
+15 ÷ 3 = 5
+7 × 6 = 42
+```
+
+## Project Structure
+
+```bash
+.
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
